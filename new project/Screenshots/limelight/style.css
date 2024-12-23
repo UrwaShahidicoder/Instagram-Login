@@ -1,0 +1,63 @@
+.container-fluid{
+    background-color:black;
+    width: 1550px;
+    padding: 15px;
+}
+.navbar-brand i{
+    color: aliceblue;
+    margin-left: 400px;
+}
+
+
+.promo-text {
+    background-color: white;
+    color: red;
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+}
+.navbar {
+    background-color: white;
+
+}
+.navbar-nav .nav-link {
+    color: rgb(17, 2, 2);
+    font-weight: bold;
+    margin-right: 15px;
+}
+.navbar-nav .nav-link:hover {
+    text-decoration: underline;
+}
+.navbar-brand img{
+    background-color: black;
+    width: 300px; 
+    margin-left: 500px;
+    margin-top: 15px;
+
+
+}
+
+.nav-icons i {
+    font-size: 20px;
+    margin: 0 10px;
+    color:black;
+}
+.checkout-btn {
+    color: rgb(29, 20, 20);
+    font-weight: bold;
+    margin-left: 10px;
+}
+.carousel img {
+    width: 100%;
+    height: auto;
+}
+.winter-west h1{
+    padding-top: 20px;
+    text-align: center;
+
+}
+.d-flex input{
+    width: 700px;
+    height: 30px;
+    border-radius: 10px;
+}
